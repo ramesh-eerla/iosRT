@@ -13,6 +13,7 @@
 		109F33B62182305F00979FD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 109F33B52182305F00979FD0 /* Assets.xcassets */; };
 		109F33B92182305F00979FD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 109F33B72182305F00979FD0 /* LaunchScreen.storyboard */; };
 		109F33C2218237CE00979FD0 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33C1218237CE00979FD0 /* RegisterVC.swift */; };
+		109F33C42182407100979FD0 /* LandingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33C32182407100979FD0 /* LandingVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		109F33B82182305F00979FD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		109F33BA2182305F00979FD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		109F33C1218237CE00979FD0 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		109F33C32182407100979FD0 /* LandingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				109F33C1218237CE00979FD0 /* RegisterVC.swift */,
+				109F33C32182407100979FD0 /* LandingVC.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				109F33C42182407100979FD0 /* LandingVC.swift in Sources */,
 				109F33C2218237CE00979FD0 /* RegisterVC.swift in Sources */,
 				109F33B12182305300979FD0 /* ViewController.swift in Sources */,
 				109F33AF2182305300979FD0 /* AppDelegate.swift in Sources */,
@@ -297,7 +301,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = JWTVFTFWFQ;
 				INFOPLIST_FILE = RoomTrac/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +321,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = JWTVFTFWFQ;
 				INFOPLIST_FILE = RoomTrac/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
