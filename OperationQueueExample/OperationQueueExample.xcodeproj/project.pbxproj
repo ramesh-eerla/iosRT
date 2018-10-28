@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		109F33AF2182305300979FD0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33AE2182305300979FD0 /* AppDelegate.swift */; };
-		109F33B12182305300979FD0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33B02182305300979FD0 /* ViewController.swift */; };
-		109F33B42182305300979FD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 109F33B22182305300979FD0 /* Main.storyboard */; };
-		109F33B62182305F00979FD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 109F33B52182305F00979FD0 /* Assets.xcassets */; };
-		109F33B92182305F00979FD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 109F33B72182305F00979FD0 /* LaunchScreen.storyboard */; };
-		109F33C2218237CE00979FD0 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33C1218237CE00979FD0 /* RegisterVC.swift */; };
-		109F33C42182407100979FD0 /* LandingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109F33C32182407100979FD0 /* LandingVC.swift */; };
-		10ECAB6321863F070044FFB1 /* ForgotPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ECAB6221863F070044FFB1 /* ForgotPasswordVC.swift */; };
+		10ECAB4F2182DC820044FFB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ECAB4E2182DC820044FFB1 /* AppDelegate.swift */; };
+		10ECAB512182DC820044FFB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ECAB502182DC820044FFB1 /* ViewController.swift */; };
+		10ECAB542182DC820044FFB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10ECAB522182DC820044FFB1 /* Main.storyboard */; };
+		10ECAB562182DC850044FFB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10ECAB552182DC850044FFB1 /* Assets.xcassets */; };
+		10ECAB592182DC850044FFB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10ECAB572182DC850044FFB1 /* LaunchScreen.storyboard */; };
+		10ECAB61218303BF0044FFB1 /* SampleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ECAB60218303BF0044FFB1 /* SampleCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		109F33AB2182305300979FD0 /* RoomTrac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RoomTrac.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		109F33AE2182305300979FD0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		109F33B02182305300979FD0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		109F33B32182305300979FD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		109F33B52182305F00979FD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		109F33B82182305F00979FD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		109F33BA2182305F00979FD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		109F33C1218237CE00979FD0 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
-		109F33C32182407100979FD0 /* LandingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingVC.swift; sourceTree = "<group>"; };
-		10ECAB6221863F070044FFB1 /* ForgotPasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordVC.swift; sourceTree = "<group>"; };
+		10ECAB4B2182DC820044FFB1 /* OperationQueueExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperationQueueExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		10ECAB4E2182DC820044FFB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		10ECAB502182DC820044FFB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		10ECAB532182DC820044FFB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		10ECAB552182DC850044FFB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		10ECAB582182DC850044FFB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		10ECAB5A2182DC850044FFB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10ECAB60218303BF0044FFB1 /* SampleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		109F33A82182305300979FD0 /* Frameworks */ = {
+		10ECAB482182DC820044FFB1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,82 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		109F33A22182305300979FD0 = {
+		10ECAB422182DC820044FFB1 = {
 			isa = PBXGroup;
 			children = (
-				109F33AD2182305300979FD0 /* RoomTrac */,
-				109F33AC2182305300979FD0 /* Products */,
+				10ECAB4D2182DC820044FFB1 /* OperationQueueExample */,
+				10ECAB4C2182DC820044FFB1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		109F33AC2182305300979FD0 /* Products */ = {
+		10ECAB4C2182DC820044FFB1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				109F33AB2182305300979FD0 /* RoomTrac.app */,
+				10ECAB4B2182DC820044FFB1 /* OperationQueueExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		109F33AD2182305300979FD0 /* RoomTrac */ = {
+		10ECAB4D2182DC820044FFB1 /* OperationQueueExample */ = {
 			isa = PBXGroup;
 			children = (
-				109F33C0218237AF00979FD0 /* Controllers */,
-				109F33AE2182305300979FD0 /* AppDelegate.swift */,
-				109F33B02182305300979FD0 /* ViewController.swift */,
-				109F33B22182305300979FD0 /* Main.storyboard */,
-				109F33B52182305F00979FD0 /* Assets.xcassets */,
-				109F33B72182305F00979FD0 /* LaunchScreen.storyboard */,
-				109F33BA2182305F00979FD0 /* Info.plist */,
+				10ECAB4E2182DC820044FFB1 /* AppDelegate.swift */,
+				10ECAB502182DC820044FFB1 /* ViewController.swift */,
+				10ECAB522182DC820044FFB1 /* Main.storyboard */,
+				10ECAB552182DC850044FFB1 /* Assets.xcassets */,
+				10ECAB572182DC850044FFB1 /* LaunchScreen.storyboard */,
+				10ECAB5A2182DC850044FFB1 /* Info.plist */,
+				10ECAB60218303BF0044FFB1 /* SampleCell.swift */,
 			);
-			path = RoomTrac;
-			sourceTree = "<group>";
-		};
-		109F33C0218237AF00979FD0 /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				109F33C1218237CE00979FD0 /* RegisterVC.swift */,
-				109F33C32182407100979FD0 /* LandingVC.swift */,
-				10ECAB6221863F070044FFB1 /* ForgotPasswordVC.swift */,
-			);
-			path = Controllers;
+			path = OperationQueueExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		109F33AA2182305300979FD0 /* RoomTrac */ = {
+		10ECAB4A2182DC820044FFB1 /* OperationQueueExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 109F33BD2182305F00979FD0 /* Build configuration list for PBXNativeTarget "RoomTrac" */;
+			buildConfigurationList = 10ECAB5D2182DC850044FFB1 /* Build configuration list for PBXNativeTarget "OperationQueueExample" */;
 			buildPhases = (
-				109F33A72182305300979FD0 /* Sources */,
-				109F33A82182305300979FD0 /* Frameworks */,
-				109F33A92182305300979FD0 /* Resources */,
+				10ECAB472182DC820044FFB1 /* Sources */,
+				10ECAB482182DC820044FFB1 /* Frameworks */,
+				10ECAB492182DC820044FFB1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = RoomTrac;
-			productName = RoomTrac;
-			productReference = 109F33AB2182305300979FD0 /* RoomTrac.app */;
+			name = OperationQueueExample;
+			productName = OperationQueueExample;
+			productReference = 10ECAB4B2182DC820044FFB1 /* OperationQueueExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		109F33A32182305300979FD0 /* Project object */ = {
+		10ECAB432182DC820044FFB1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = Sunil;
 				TargetAttributes = {
-					109F33AA2182305300979FD0 = {
+					10ECAB4A2182DC820044FFB1 = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = 109F33A62182305300979FD0 /* Build configuration list for PBXProject "RoomTrac" */;
+			buildConfigurationList = 10ECAB462182DC820044FFB1 /* Build configuration list for PBXProject "OperationQueueExample" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,57 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 109F33A22182305300979FD0;
-			productRefGroup = 109F33AC2182305300979FD0 /* Products */;
+			mainGroup = 10ECAB422182DC820044FFB1;
+			productRefGroup = 10ECAB4C2182DC820044FFB1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				109F33AA2182305300979FD0 /* RoomTrac */,
+				10ECAB4A2182DC820044FFB1 /* OperationQueueExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		109F33A92182305300979FD0 /* Resources */ = {
+		10ECAB492182DC820044FFB1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				109F33B92182305F00979FD0 /* LaunchScreen.storyboard in Resources */,
-				109F33B62182305F00979FD0 /* Assets.xcassets in Resources */,
-				109F33B42182305300979FD0 /* Main.storyboard in Resources */,
+				10ECAB592182DC850044FFB1 /* LaunchScreen.storyboard in Resources */,
+				10ECAB562182DC850044FFB1 /* Assets.xcassets in Resources */,
+				10ECAB542182DC820044FFB1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		109F33A72182305300979FD0 /* Sources */ = {
+		10ECAB472182DC820044FFB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				109F33C42182407100979FD0 /* LandingVC.swift in Sources */,
-				109F33C2218237CE00979FD0 /* RegisterVC.swift in Sources */,
-				109F33B12182305300979FD0 /* ViewController.swift in Sources */,
-				109F33AF2182305300979FD0 /* AppDelegate.swift in Sources */,
-				10ECAB6321863F070044FFB1 /* ForgotPasswordVC.swift in Sources */,
+				10ECAB512182DC820044FFB1 /* ViewController.swift in Sources */,
+				10ECAB4F2182DC820044FFB1 /* AppDelegate.swift in Sources */,
+				10ECAB61218303BF0044FFB1 /* SampleCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		109F33B22182305300979FD0 /* Main.storyboard */ = {
+		10ECAB522182DC820044FFB1 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				109F33B32182305300979FD0 /* Base */,
+				10ECAB532182DC820044FFB1 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		109F33B72182305F00979FD0 /* LaunchScreen.storyboard */ = {
+		10ECAB572182DC850044FFB1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				109F33B82182305F00979FD0 /* Base */,
+				10ECAB582182DC850044FFB1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -182,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		109F33BB2182305F00979FD0 /* Debug */ = {
+		10ECAB5B2182DC850044FFB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		109F33BC2182305F00979FD0 /* Release */ = {
+		10ECAB5C2182DC850044FFB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -298,41 +282,39 @@
 			};
 			name = Release;
 		};
-		109F33BE2182305F00979FD0 /* Debug */ = {
+		10ECAB5E2182DC850044FFB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = JWTVFTFWFQ;
-				INFOPLIST_FILE = RoomTrac/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				INFOPLIST_FILE = OperationQueueExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.launchship.LearningPurpose;
+				PRODUCT_BUNDLE_IDENTIFIER = com.launchship.DevSTTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = DevLearningPurpose;
+				PROVISIONING_PROFILE_SPECIFIER = DevTeamSTTest;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		109F33BF2182305F00979FD0 /* Release */ = {
+		10ECAB5F2182DC850044FFB1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = JWTVFTFWFQ;
-				INFOPLIST_FILE = RoomTrac/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				INFOPLIST_FILE = OperationQueueExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.launchship.LearningPurpose;
+				PRODUCT_BUNDLE_IDENTIFIER = com.launchship.DevSTTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = DevLearningPurpose;
+				PROVISIONING_PROFILE_SPECIFIER = DevTeamSTTest;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -341,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		109F33A62182305300979FD0 /* Build configuration list for PBXProject "RoomTrac" */ = {
+		10ECAB462182DC820044FFB1 /* Build configuration list for PBXProject "OperationQueueExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				109F33BB2182305F00979FD0 /* Debug */,
-				109F33BC2182305F00979FD0 /* Release */,
+				10ECAB5B2182DC850044FFB1 /* Debug */,
+				10ECAB5C2182DC850044FFB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		109F33BD2182305F00979FD0 /* Build configuration list for PBXNativeTarget "RoomTrac" */ = {
+		10ECAB5D2182DC850044FFB1 /* Build configuration list for PBXNativeTarget "OperationQueueExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				109F33BE2182305F00979FD0 /* Debug */,
-				109F33BF2182305F00979FD0 /* Release */,
+				10ECAB5E2182DC850044FFB1 /* Debug */,
+				10ECAB5F2182DC850044FFB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 109F33A32182305300979FD0 /* Project object */;
+	rootObject = 10ECAB432182DC820044FFB1 /* Project object */;
 }

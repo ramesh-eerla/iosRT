@@ -1,14 +1,14 @@
 //
-//  LandingVC.swift
+//  ForgotPasswordVC.swift
 //  RoomTrac
 //
-//  Created by Sunil on 25/10/18.
+//  Created by Sunil on 29/10/18.
 //  Copyright © 2018 Sunil. All rights reserved.
 //
 
 import UIKit
 
-class LandingVC: UIViewController {
+class ForgotPasswordVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,7 +17,7 @@ class LandingVC: UIViewController {
     }
 
     override func viewWillAppear(_ animated: Bool) {
-        self.navigationController?.isNavigationBarHidden = true
+        self.navigationController?.isNavigationBarHidden = false
     }
     
 
